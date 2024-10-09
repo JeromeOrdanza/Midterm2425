@@ -9,6 +9,7 @@
     "test": "ng test",
     "serve:ssr:AngularMidterm_Ordanza": "node dist/angular-midterm-ordanza/server/server.mjs"
   },
+  
   "private": true,
   "dependencies": {
     "@angular/animations": "^18.2.0",
